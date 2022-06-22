@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CEDARS"]
+	path = CEDARS
+	url = https://github.com/simon-hans/cedars
+	shallow = true
+	registered = true
